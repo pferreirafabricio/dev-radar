@@ -20,7 +20,7 @@ module.exports = {
 
             const { name = login, avatar_url, bio } = apiResponse.data;
 
-            const techsArray = parseStringAsArray(techsArray);
+            const techsArray = parseStringAsArray(techs);
 
             const location = {
                 type: "Point",

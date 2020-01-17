@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const routes = require("./routes");
+const cors = require("cors");
 
 const app = express();
 
@@ -11,6 +12,7 @@ mongoose.connect("mongodb+srv://fabricio:fabreco@nodeapi-n5tjo.mongodb.net/week1
 });
 
 //Middlewares
+app.use(cors());
 app.use(express.json());
 
 //Routes
