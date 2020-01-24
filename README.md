@@ -2,7 +2,9 @@
 
 ## :eyes: Como ficou?
 
-<img src="/projectImages/tela-cadastro.png" width="500px"></img>
+<img src="/projectImages/tela-cadastro.png" width="1000px"></img>
+<img src="/projectImages/tela-mobile.png" width="auto" height="400px"></img>
+<img src="/projectImages/tela-github.png" width="auto" height="400px"></img>
 
 ## :rocket: Tecnologias usadas
 
@@ -20,6 +22,6 @@ O DevRadar é um aplicativo que visa conectar desenvolvedores que trabalham com 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## :muscle: Agradecimentos
+## :gift_heart: Agradecimentos
 
 Agradeço ao [Diego Fernandes](https://github.com/diego3g), o qual ministrou todas as aulas da semana, por repassar seus conhecimentos e agradeço também ao [João Carli](https://github.com/fl4m3x) por me dar a inspiração para a construção deste readme.
